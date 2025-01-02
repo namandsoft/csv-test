@@ -1,0 +1,6 @@
+name,imageUrl,area,office,tags,isLoggedUser,positionName,id,parentId,size
+naman,,Corporate,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-111,,
+yogiraj,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6067,O-6066,
+raviraj,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6068,O-6067,
+yash,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6069,O-111,
+nirav,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6070,O-6067,
